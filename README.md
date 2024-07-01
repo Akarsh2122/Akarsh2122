@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akarsh Sachan</h1>
-<h3 align="center">Dynamic Tech Enthusiast Skilled in AI, Cloud Solutions, and Frontend Development and a Versatile Developer with Strong Background in Emerging Technologies and Competitive Coding</h3>
+<h3 align="center">Dynamic Tech Enthusiast Skilled in Cloud Solutions, Frontend Development and a Versatile Developer with Strong Background in Emerging Technologies and Competitive Coding</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
